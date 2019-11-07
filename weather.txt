@@ -1,1 +1,2 @@
-The weather today is so nice.
+The weather today is so nice!
+And the cloud looks beautiful, too.
